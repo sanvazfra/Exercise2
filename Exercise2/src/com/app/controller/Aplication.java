@@ -8,7 +8,7 @@ public class Aplication {
 		System.out.println("Hola mundo!!!");
 		despedir();
 	}
-	public void despedir(){
+	public static void despedir(){
 		System.out.println("Hola mundo!!!");
 	}
 
